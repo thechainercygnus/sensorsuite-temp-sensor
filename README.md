@@ -1,6 +1,6 @@
 # Temp Sensor
 
-This is my simple ESP32 WiFi temperature sensor for my SensorSuite.
+This is my simple ESP32 WiFi temperature sensor for my [SensorSuite](https://github.com/thechainercygnus/sensorsuite-server).
 
 On Windows after cloning repository, dot source the Settings script:
 `. .\Set-DeviceSettings.ps1`
